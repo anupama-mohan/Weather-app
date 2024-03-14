@@ -1,4 +1,4 @@
-this Vue.js weather app allows users to search for weather information for multiple locations and displays it in a user-friendly manner using individual weather cards. Users can also delete locations from the list if needed.Overall, this component provides a structured and visually appealing way to display weather forecast information for a single day, including the day of the week, weather condition icon, and high/low temperatures. It's designed to be reusable and can be used within a larger weather forecast display, such as the one shown in the previous examples.
+this Vue.js weather app allows users to search for weather information for multiple locations and displays it in a user-friendly manner using individual weather cards. Users can also delete locations from the list if needed.Overall, this component provides a structured and visually appealing way to display weather forecast information for a single day, including the day of the week, weather condition icon, and high/low temperatures. It's designed to be reusable and can be used within a larger weather forecast display.
 
 
 
